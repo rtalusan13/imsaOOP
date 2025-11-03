@@ -7,6 +7,6 @@ all they need to know. The comments should usually include at least:
 PROJECT TITLE: Cipher
 PURPOSE OF PROJECT: To cipher and decipher a text file
 VERSION or DATE: 10/17/23
-HOW TO START THIS PROJECT:
+HOW TO START THIS PROJECT: Compile and run the whole folder through the BlueJ IDE
 AUTHORS: Raphael Talusan
 USER INSTRUCTIONS: Text file should be in the project folder
