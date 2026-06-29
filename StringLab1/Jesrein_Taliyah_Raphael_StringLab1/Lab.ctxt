@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Lab
+comment0.text=\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Lab()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Lab\r\n
+comment2.params=s1\ s2\ s3
+comment2.target=java.lang.String\ replace(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=s1\ s2
+comment3.target=java.lang.String\ password(java.lang.String,\ java.lang.String)
+comment4.params=s1\ s2
+comment4.target=java.lang.String\ find(java.lang.String,\ java.lang.String)
+comment5.params=s1
+comment5.target=java.lang.String\ length(java.lang.String)
+numComments=6
