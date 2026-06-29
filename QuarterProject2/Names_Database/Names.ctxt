@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Names
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ NameRecord\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ popularNames()
+comment2.params=s
+comment2.target=void\ singleName(java.lang.String)
+comment3.params=
+comment3.target=void\ singleDecade()
+comment4.params=
+comment4.target=void\ allNamesDecades()
+comment5.params=s
+comment5.target=void\ singleRank(int)
+comment6.params=s
+comment6.target=void\ drawing(java.lang.String)
+comment7.params=
+comment7.target=void\ search()
+numComments=8

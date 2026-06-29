@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=NamesRecord
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ NamesRecord\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ record1()
+comment2.params=s
+comment2.target=void\ record2(java.lang.String)
+comment3.params=
+comment3.target=void\ record3()
+comment4.params=
+comment4.target=void\ record4()
+comment5.params=s
+comment5.target=void\ record5(int)
+comment6.params=
+comment6.target=void\ record6()
+numComments=7

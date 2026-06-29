@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Array_Lab
+comment0.text=\r\n\ This\ class\ does\ calculations.\r\n\ \r\n\ @author\ (Raphael\ Talusan)\ \r\n\ @version\ (11/3/23)\r\n
+comment1.params=
+comment1.target=Array_Lab()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Calculate\r\n\ MAKE\ NO\ CHANGES\ TO\ THE\ CONSTRUCTOR\r\n
+comment2.params=
+comment2.target=void\ countFive()
+comment3.params=
+comment3.target=int\ sum()
+comment4.params=
+comment4.target=void\ changeSign()
+comment5.params=
+comment5.target=void\ oddEven()
+numComments=6

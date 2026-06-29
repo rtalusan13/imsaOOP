@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=gcd
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ gcd\ here.\r\n\ \r\n\ @author\ (Dr.\ P.\ Patankar)\ \r\n\ @version\ (1)\r\n
+comment1.params=
+comment1.target=gcd()
+comment2.params=number1\ number2
+comment2.target=int\ findGCD(int,\ int)
+numComments=3

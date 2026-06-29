@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Fraction
+comment0.text=\r\n\ This\ class\ will\ perform\ arithmetic\ operations\ on\ fractions.\r\n\r\n\ @author\ P\ Patankar\r\n\ @version\ May,\ 2015\r\n
+comment1.params=n\ d
+comment1.target=Fraction(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Fraction\r\n
+comment2.params=
+comment2.target=int\ getNumerator()
+comment2.text=\r\n\ Returns\ the\ nemerator.\r\n
+comment3.params=
+comment3.target=int\ getDenominator()
+comment3.text=\r\n\ Returns\ the\ denominator.\r\n
+comment4.params=frac
+comment4.target=Fraction\ add(Fraction)
+comment4.text=\ Adds\ the\ new\ fraction\ to\ the\ existing\ fraction\r\n\ \ and\ returns\ the\ reduced\ fraction\r\n
+comment5.params=frac
+comment5.target=Fraction\ multiply(Fraction)
+comment5.text=\ Multiplies\ the\ existing\ fraction\ by\ the\ new\ fraction\r\n\ \ and\ returns\ the\ reduced\ fraction\r\n
+comment6.params=
+comment6.target=void\ reduce()
+comment6.text=\ Reduces\ the\ fraction\ to\ lowest\ terms\ by\ finding\ integer\ values\r\n\ \ that\ divide\ evenly\ into\ both\ numerator\ and\ denominator.\r\n
+comment7.params=
+comment7.target=java.lang.String\ result()
+comment7.text=\ Returns\ a\ string\ representing\ the\ current\ value\ of\r\n\ \ the\ fraction.\ If\ the\ numerator\ is\ zero,\ returns\ 0.\r\n\ \ If\ the\ denominator\ is\ 1,\ returns\ only\ the\ numerator.\r\n\ \ If\ the\ denominator\ is\ 0,\ returns\ undefined\r\n\ \ If\ the\ numerator\ and\ the\ denominator\ are\ the\ same,\ returns\ 1\r\n\ \ else\ returns\ numerator\ /\ denominator\ in\ reduced\ form\r\n
+numComments=8
