@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=My_ArrayList
+comment0.text=\r\n\ This\ class\ implements\ an\ arralist\ of\ strings.\r\n\r\n\ @author\ (Raphael\ Talusan)\r\n\ @version\ (10/20/23)\r\n
+comment1.params=
+comment1.target=My_ArrayList()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ My_ArrayList\r\n
+numComments=2
