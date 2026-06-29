@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Cipher
+comment0.text=\r\n\ \ Class\ that\ encodes\ and\ decodes\ individual\ characters\ using\ the\ "Caesar\ cipher".\r\n\ \ Nandana\ Varma\ 11/7/22\r\n\ \ Asked\ for\ help\ from\ Ryan\ and\ Emily\r\n
+comment1.params=
+comment1.target=Cipher()
+comment1.text=\r\n\ \ Constructs\ a\ Cipher\ object.\r\n
+comment2.params=ch
+comment2.target=char\ encode(char)
+comment2.text=\r\n\ Encodes\ a\ single\ character.\r\n\ \ \ @param\ ch\ the\ character\ to\ be\ encoded\r\n\ \ \ @return\ the\ character\ three\ later\ in\ the\ alphabet,\ with\ wrap-around\r\n
+comment3.params=ch
+comment3.target=char\ decode(char)
+comment3.text=\r\n\ Decodes\ a\ single\ character.\r\n\ \ \ @param\ ch\ the\ character\ to\ be\ decoded\r\n\ \ \ @return\ the\ character\ three\ earlier\ in\ the\ alphabet,\ with\ wrap-around\r\n
+numComments=4

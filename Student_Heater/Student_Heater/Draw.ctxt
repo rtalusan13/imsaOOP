@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Draw
+comment0.text=\r\n\ This\ class\ uses\ Canvas.\r\n\r\n\ @author\ (Raphael\ Talusan)\r\n\ @version\ (9/14/23)\r\n
+comment1.params=
+comment1.target=Draw()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Draw\r\n
+comment2.params=
+comment2.target=void\ cool()
+comment3.params=
+comment3.target=void\ heat()
+numComments=4

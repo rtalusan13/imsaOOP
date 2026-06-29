@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Heater
+comment0.text=\r\n\ This\ is\ a\ heater\ that\ shows\ temperature\ and\ can\ be\ used.\r\n\r\n\ @author\ (Raphael\ Talusan)\r\n\ @version\ (9/15/2023)\r\n
+comment1.params=
+comment1.target=Heater()
+comment2.params=
+comment2.target=void\ cool()
+comment3.params=
+comment3.target=void\ warm()
+numComments=4
